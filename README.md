@@ -1,4 +1,4 @@
-#آية محمد عوض عبدالثادر
+#آية محمد عوض عبدالقادر
 # Mini Product Catalog 
 
 A Flutter application that displays a collection of products, allows users to browse product details, and add products to the cart.
