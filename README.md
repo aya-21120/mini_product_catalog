@@ -123,5 +123,8 @@ This project demonstrates:
 ### 3. Product Details Screen
 ![Product Details Screen](screenshots/product_details.png)
 
+### 4. Console Screen
+![Product Details Screen](screenshots/Console.png)
+
 ### 4. Product Details Screen
 ![Product Details Screen](screenshots/console.png)
